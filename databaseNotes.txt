@@ -1,0 +1,5 @@
+Make writerCompany into its own table to be identified by ids 
+
+Make writerProfession into its own table to be identified by ids
+
+Make writerSkills into its own table to be identified by ids

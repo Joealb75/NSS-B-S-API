@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Joe Albrecht",
+      "userImg": "https://media.licdn.com/dms/image/D4E03AQFavP5eTkGnwA/profile-displayphoto-shrink_200_200/0/1664064648200?e=1719446400&v=beta&t=NtGE81iUYFBuY0GAl2QAtikaFxGh6CaHtX9318SwUpA",
+      "email": "Joe@BoughtAndSold.com",
+      "isWriter": true
+    },
+    {
+      "id": 2,
+      "fullName": "William Stetar",
+      "userImg": "",
+      "email": "will@gmail.com",
+      "isWriter": false
+    },
+    {
+      "id": 3,
+      "fullName": "Jason Leeson",
+      "userImg": "https://media.licdn.com/dms/image/D4E03AQFavP5eTkGnwA/profile-displayphoto-shrink_200_200/0/1664064648200?e=1719446400&v=beta&t=NtGE81iUYFBuY0GAl2QAtikaFxGh6CaHtX9318SwUpA",
+      "email": "Jason@BoughtAndSold.com",
+      "isWriter": true
+    }
+  ],
+  "writers": [
+    {
+      "id": 1,
+      "userId": 1,
+      "writerCompany": "SimpliHom",
+      "writerProfession": "Realtor",
+      "aboutMe": "Representing Middle Tennessee Homeowners and Investors, Joe Albrecht is a 3rd generation Realtor committed to providing quality service to build and maintain client relationships through hard work, effective communication, outstanding service and complete transparency to help you through any of your Real Estate needs.",
+      "writerSkills": "Buyers, Sellers, Investments",
+      "featuredArticle": 1
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "writerCompany": "test",
+      "writerProfession": "this is a",
+      "aboutMe": "This is a Place Holder for the 'About Me' section",
+      "writerSkills": "Buyers, Sellers, Investments",
+      "featuredArticle": 1
+    }
+  ],
+  "articleCategories": [
+    {
+      "id": 1,
+      "name": "Buyers"
+    },
+    {
+      "id": 2,
+      "name": "Sellers"
+    },
+    {
+      "id": 3,
+      "name": "Investments"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "userId": 1,
+      "categoryId": 1,
+      "isFeaturedArticle": true,
+      "image": "https://media.licdn.com/dms/image/D4E12AQGgHhVaaHiNmg/article-cover_image-shrink_720_1280/0/1704208503188?e=1719446400&v=beta&t=q5klK-VuUSGgAaL8AynSvrOTBwrg7nN6S0zBBbPJPxM",
+      "title": "Real Estate Market Forecast: Opportunities for Home Buyers and Sellers in 2024",
+      "articleContent": "Tennessee homes continued to sell at eye-popping prices last month. The median home sale price rose 5.4% year-over-year from $345,700 to $364,700 in January. The number of homes sold on the market declined by 1.6% YoY from 4,962 to ~4,881 homes, with only 4 months of supply. Does the scarcity of houses make Tennessee a seller’s market? Let’s look at the facts. Nashville homes sold for a median sale price of $440,000 in January, up 5.0% year-over-year. Homes in Knoxville sold for a median sale price of $327,000, a 20.2% increase year-over-year. In fact, there were no markets in Tennessee where prices declined year-over-year.",
+      "dateUploaded": ""
+    },
+    {
+      "userId": 3,
+      "title": "different user test ",
+      "articleContent": "THIS IS A TEST FOR USER 3 - Jason Leeson",
+      "isFeaturedArticle": false,
+      "image": "",
+      "dateUploaded": "2024-04-26T20:31:50.047Z",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "this is a test ",
+      "articleContent": "asdasdasdas",
+      "isFeaturedArticle": false,
+      "image": "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2018/04/Jennifer-Heller-Buckley-PHOTO1.jpg?ssl=1",
+      "dateUploaded": "2024-04-26T20:51:31.127Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "userId": 1,
+      "content": "this is a test",
+      "timeStamp": ""
+    }
+  ]
+}
