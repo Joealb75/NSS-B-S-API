@@ -16,9 +16,9 @@
     },
     {
       "id": 3,
-      "fullName": "Jason Leeson",
-      "userImg": "https://media.licdn.com/dms/image/D4E03AQFavP5eTkGnwA/profile-displayphoto-shrink_200_200/0/1664064648200?e=1719446400&v=beta&t=NtGE81iUYFBuY0GAl2QAtikaFxGh6CaHtX9318SwUpA",
-      "email": "Jason@BoughtAndSold.com",
+      "fullName": "JSON",
+      "userImg": "https://play-lh.googleusercontent.com/3aaVONdgZRH1itf33IW6HN3UQO-K_QGDN1zMa2jbC6Z1Ns2o6XbWNz37BuX8AFk_se8=w240-h480-rw",
+      "email": "JSON@BoughtAndSold.com",
       "isWriter": true
     }
   ],
@@ -26,18 +26,18 @@
     {
       "id": 1,
       "userId": 1,
-      "writerCompany": "SimpliHom",
+      "writerCompany": "SimpliHOM",
       "writerProfession": "Realtor",
       "aboutMe": "Representing Middle Tennessee Homeowners and Investors, Joe Albrecht is a 3rd generation Realtor committed to providing quality service to build and maintain client relationships through hard work, effective communication, outstanding service and complete transparency to help you through any of your Real Estate needs.",
-      "writerSkills": "Buyers, Sellers, Investments",
+      "writerSkills": "Buyers, Sellers, Investments...",
       "featuredArticle": 1
     },
     {
       "id": 2,
       "userId": 3,
-      "writerCompany": "test",
-      "writerProfession": "this is a",
-      "aboutMe": "This is a Place Holder for the 'About Me' section",
+      "writerCompany": "SUCESSFUL",
+      "writerProfession": "PUT WAS",
+      "aboutMe": "TEST TEST TEST STESTLNFDSKNV\"SDKNV\"KSDNV\"KLSDVSDV",
       "writerSkills": "Buyers, Sellers, Investments",
       "featuredArticle": 1
     }
@@ -54,45 +54,227 @@
     {
       "id": 3,
       "name": "Investments"
+    },
+    {
+      "id": 4,
+      "name": "Commercial Real Estate"
     }
   ],
   "articles": [
     {
-      "id": 1,
+      "id": 4,
       "userId": 1,
       "categoryId": 1,
-      "isFeaturedArticle": true,
-      "image": "https://media.licdn.com/dms/image/D4E12AQGgHhVaaHiNmg/article-cover_image-shrink_720_1280/0/1704208503188?e=1719446400&v=beta&t=q5klK-VuUSGgAaL8AynSvrOTBwrg7nN6S0zBBbPJPxM",
-      "title": "Real Estate Market Forecast: Opportunities for Home Buyers and Sellers in 2024",
-      "articleContent": "Tennessee homes continued to sell at eye-popping prices last month. The median home sale price rose 5.4% year-over-year from $345,700 to $364,700 in January. The number of homes sold on the market declined by 1.6% YoY from 4,962 to ~4,881 homes, with only 4 months of supply. Does the scarcity of houses make Tennessee a seller’s market? Let’s look at the facts. Nashville homes sold for a median sale price of $440,000 in January, up 5.0% year-over-year. Homes in Knoxville sold for a median sale price of $327,000, a 20.2% increase year-over-year. In fact, there were no markets in Tennessee where prices declined year-over-year.",
-      "dateUploaded": ""
+      "isFeaturedArticle": false,
+      "image": "https://www.pefcu.blog/wp-content/uploads/2024/01/Blog-Header_answering-your-fthb-questions.jpg",
+      "title": "What First-Time Home Buyers Should Know in 2024",
+      "articleContent": "First-time home buyers face a complex market in 2024. This guide provides essential tips on navigating mortgage rates, finding affordable neighborhoods, and understanding the buying process.",
+      "dateUploaded": "2024-05-06"
     },
     {
-      "userId": 3,
-      "title": "different user test ",
-      "articleContent": "THIS IS A TEST FOR USER 3 - Jason Leeson",
+      "id": 5,
+      "userId": 1,
+      "categoryId": 2,
       "isFeaturedArticle": false,
-      "image": "",
-      "dateUploaded": "2024-04-26T20:31:50.047Z",
-      "id": 2
+      "image": "https://media.licdn.com/dms/image/D5612AQH95L6eoOtEZQ/article-cover_image-shrink_720_1280/0/1709591814312?e=1720656000&v=beta&t=lgfSoBZXwNfvj0YwwU-Sk3sUV1A1e_RZpPA0MWbipoU",
+      "title": "How Sellers Can Optimize Their Home Value",
+      "articleContent": "Maximizing home value is crucial for sellers in today's market. This article offers expert advice on home improvements and marketing strategies that can help sellers achieve the best sale price.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "categoryId": 4,
+      "isFeaturedArticle": false,
+      "image": "https://www.2020spaces.com/wp-content/uploads/2020/06/Blog_1200x630Post-PandemicOffice_01-Main.jpg",
+      "title": "The Future of Office Spaces Post-Pandemic",
+      "articleContent": "The pandemic has permanently altered the landscape of office spaces. This piece explores how businesses are redesigning their workplaces to accommodate flexible working arrangements.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "categoryId": 3,
+      "isFeaturedArticle": false,
+      "image": "https://images.axios.com/hYBF1lJ7wM8hSbB-AGWTONNnsIE=/0x0:1920x1080/1920x1080/2024/01/09/1704814650387.jpg?w=1920",
+      "title": "Real Estate Markets to Invest in for 2024",
+      "articleContent": "Identifying lucrative real estate markets is key for investors. This article highlights regions with potential for significant investment returns, based on current economic and demographic trends.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "categoryId": 2,
+      "isFeaturedArticle": true,
+      "image": "https://www.getnews.info/uploads/0b3fa09862d765a3164505ce67d73d35.png",
+      "title": "Seller Strategies for a Slow Market",
+      "articleContent": "In a slow market, sellers need to adjust their tactics to attract buyers. This article discusses how to use pricing, staging, and marketing to make your home stand out despite market conditions.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "categoryId": 3,
+      "isFeaturedArticle": false,
+      "image": "https://www.investopedia.com/thmb/MBWA-PxPX951Pd8WETL7WSN9Kvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/most-important-factors-investing-real-estate.asp-ADD-FINALjpg-32950329a30d4500b6d7e0fd0ba95189.jpg",
+      "title": "Evaluating Real Estate as a Long-term Investment",
+      "articleContent": "Real estate remains a preferred long-term investment for many. This article evaluates the pros and cons of investing in real estate over an extended period, considering various economic cycles.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "categoryId": 4,
+      "isFeaturedArticle": false,
+      "image": "https://media.licdn.com/dms/image/D5612AQHYCbPw_SQKow/article-cover_image-shrink_720_1280/0/1684446667587?e=1720656000&v=beta&t=-e-wuRfSuZ1rjilJvCktRGl4Av3gia1rzqGM9309ctU",
+      "title": "Revolutionizing Commercial Real Estate with Technology",
+      "articleContent": "Technology is rapidly changing the commercial real estate sector. From virtual tours to automated management systems, this article explores how tech is enhancing efficiency and profitability in the industry.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "categoryId": 1,
+      "isFeaturedArticle": false,
+      "image": "https://media.licdn.com/dms/image/D4D12AQHuqYlhyLXggw/article-cover_image-shrink_720_1280/0/1692793803613?e=1720656000&v=beta&t=I0w9mgYY_wMHEmsSdGIrNwx81UK2KrjkazuPjV4nWmA",
+      "title": "The Rise of Eco-Friendly Homes in the Market",
+      "articleContent": "As environmental concerns become more prominent, eco-friendly homes are gaining popularity among home buyers. This article explores the trend towards sustainability in residential real estate, highlighting features like solar panels, energy-efficient appliances, and green building materials. We discuss how these homes not only help the environment but also offer long-term savings for homeowners.",
+      "dateUploaded": "2024-05-06"
+    },
+    {
+      "id": 13,
+      "userId": 3,
+      "categoryId": 1,
+      "isFeaturedArticle": false,
+      "image": "https://www.thebalancemoney.com/thmb/ZYRVj3QLl6UsXCpe9Pv3moM8u6g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tips-for-buying-your-first-home-1798337-color-v02-d6b6a9f0efda4a0fa44fb23e7665ac7f.png",
+      "title": "Tips for First-Time Home Buyers",
+      "articleContent": "Buying your first home can be overwhelming. There are numerous factors to consider, from budgeting and financing to finding the right property and navigating the purchasing process. To help ease the journey, here are some valuable tips for first-time home buyers:\n\n1. Establish a Realistic Budget: Before you start house hunting, determine how much you can afford to spend on a home. Consider factors such as your income, expenses, savings, and potential future costs.\n\n2. Get Pre-Approved for a Mortgage: Getting pre-approved for a mortgage can give you a clear idea of how much you can borrow and demonstrate to sellers that you're a serious buyer.\n\n3. Research Neighborhoods: Explore different neighborhoods to find the one that best suits your lifestyle, preferences, and needs. Consider factors such as schools, amenities, safety, and proximity to work.\n\n4. Work with a Real Estate Agent: A knowledgeable real estate agent can guide you through the home buying process, help you find suitable properties, negotiate offers, and navigate any challenges that arise.\n\n5. Attend Open Houses and Viewings: Take the time to visit open houses and schedule viewings of properties that interest you. Pay attention to details such as layout, condition, and potential renovation needs.\n\n6. Don't Overlook Home Inspections: A professional home inspection can uncover potential issues with a property that may not be visible to the naked eye. Factor the results of the inspection into your decision-making process.\n\n7. Be Prepared to Negotiate: Don't hesitate to negotiate with sellers on price, repairs, or other terms of the sale. Your real estate agent can provide guidance on making a competitive offer.\n\n8. Factor in Closing Costs: In addition to the purchase price of the home, budget for closing costs, which can include fees for loan origination, appraisal, title insurance, and more.\n\n9. Stay Flexible and Patient: The home buying process can be unpredictable, so it's essential to remain flexible and patient. Be prepared to adjust your expectations and plans as needed.\n\nBy following these tips and working with experienced professionals, you can navigate the home buying process with confidence and make informed decisions every step of the way.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "categoryId": 2,
+      "isFeaturedArticle": false,
+      "image": "https://assets.site-static.com/userFiles/790/image/Maximizing_Curb_Appeal.jpg",
+      "title": "Maximizing Your Home's Curb Appeal When Selling",
+      "articleContent": "When selling your home, first impressions matter. Curb appeal—the attractiveness of a property's exterior—plays a significant role in attracting potential buyers and setting the stage for a positive viewing experience. To maximize your home's curb appeal and increase its marketability, consider implementing the following tips:\n\n1. Enhance Landscaping: A well-maintained lawn, trimmed hedges, and colorful flowers can instantly enhance the look of your home's exterior. Consider planting seasonal flowers or adding mulch to flower beds for a polished appearance.\n\n2. Clean and Declutter: Remove clutter and debris from your yard, porch, and driveway. Clean windows, gutters, and siding to give your home a fresh, well-maintained look.\n\n3. Upgrade Exterior Features: Consider making upgrades to key exterior features such as doors, windows, and siding. Fresh paint or new hardware can modernize the look of your home and increase its curb appeal.\n\n4. Illuminate Outdoor Spaces: Outdoor lighting can add warmth and ambiance to your home's exterior, making it more inviting to potential buyers. Consider installing landscape lighting to highlight architectural features or illuminate pathways and entryways.\n\n5. Stage Outdoor Living Areas: If your home has outdoor living spaces such as a patio, deck, or porch, stage them to showcase their potential for relaxation and entertainment. Arrange outdoor furniture, add cushions and throw pillows, and accessorize with plants or decorative accents.\n\n6. Repair and Maintain: Address any maintenance issues such as cracked sidewalks, loose shingles, or chipped paint. A well-maintained exterior signals to buyers that the property has been cared for and is in good condition.\n\n7. Consider the Season: Tailor your curb appeal efforts to the season. In the spring and summer, focus on colorful flowers and lush landscaping. In the fall, incorporate seasonal decorations like pumpkins or fall foliage. In the winter, keep walkways clear of snow and ice and add cozy touches like outdoor lighting or a festive wreath.\n\n8. Add Personal Touches: Finally, don't underestimate the power of personal touches to make your home stand out. Consider adding a welcoming doormat, hanging a seasonal wreath on the front door, or displaying potted plants or hanging baskets.\n\nBy investing time and effort into enhancing your home's curb appeal, you can make a positive impression on potential buyers and increase the likelihood of a successful sale. Remember, a well-presented exterior sets the stage for a memorable viewing experience and can ultimately help you achieve your selling goals.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "categoryId": 3,
+      "isFeaturedArticle": false,
+      "image": "https://media.licdn.com/dms/image/D4D12AQHr83lLWFilXA/article-cover_image-shrink_600_2000/0/1677679059459?e=2147483647&v=beta&t=KTQHmamR6j-VeFOhcbAmOU6t0ZqZL3gyMVF0IGhTg1w",
+      "title": "Diversifying Your Real Estate Investment Portfolio",
+      "articleContent": "Real estate investment can be a lucrative way to build wealth and generate passive income. However, like any investment strategy, it's essential to diversify your portfolio to minimize risk and maximize returns. Diversification involves spreading your investments across different types of properties, markets, and investment vehicles to reduce exposure to any single asset or market downturn. Here are some strategies for diversifying your real estate investment portfolio:\n\n1. Explore Different Property Types: Consider investing in a mix of residential, commercial, and industrial properties to spread risk across diverse asset classes. Each property type has its own market dynamics, potential for appreciation, and rental income potential.\n\n2. Invest in Different Markets: Geographic diversification can help protect your portfolio from regional economic downturns or market-specific risks. Look for investment opportunities in different cities, states, or even countries to spread risk across varied real estate markets.\n\n3. Consider Real Estate Investment Trusts (REITs): REITs are publicly traded companies that own and manage a portfolio of income-producing properties. Investing in REITs allows you to gain exposure to real estate markets without directly owning physical properties. Additionally, REITs often offer liquidity and diversification benefits compared to direct property ownership.\n\n4. Explore Real Estate Crowdfunding: Real estate crowdfunding platforms allow investors to pool their capital to invest in projects such as residential developments, commercial properties, or multifamily housing. Crowdfunding offers access to a diverse range of investment opportunities and can be an effective way to diversify your real estate portfolio with smaller investment amounts.\n\n5. Consider Private Equity Real Estate Funds: Private equity real estate funds pool investor capital to acquire, develop, or manage real estate assets. These funds typically target specific property types or investment strategies and can offer diversification benefits through exposure to a professionally managed portfolio of properties.\n\n6. Monitor and Rebalance Your Portfolio: Regularly review your real estate investment portfolio to assess performance, identify areas of weakness, and rebalance your holdings as needed. Rebalancing involves adjusting your investment allocations to maintain your desired level of diversification and risk exposure.\n\nBy diversifying your real estate investment portfolio, you can reduce risk, enhance long-term returns, and build a resilient investment strategy that withstands market fluctuations. Whether you're a novice investor or seasoned real estate professional, incorporating diversification into your investment approach can help you achieve your financial goals and secure your financial future.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "categoryId": 4,
+      "isFeaturedArticle": false,
+      "image": "https://www.excelsiorgp.com/wp-content/uploads/2023/03/benefits-of-owning-commercial-property-over-residential.jpg",
+      "title": "The Benefits of Investing in Commercial Real Estate",
+      "articleContent": "Commercial real estate offers unique advantages for investors seeking long-term growth and income potential. Unlike residential properties, which are primarily used for housing, commercial properties are leased to businesses for office space, retail stores, industrial facilities, or other commercial purposes. Here are some key benefits of investing in commercial real estate:\n\n1. Potential for Higher Returns: Commercial properties typically generate higher rental income and cash flow compared to residential properties. Commercial leases often have longer lease terms and may include annual rent increases, providing stable and predictable income streams for investors.\n\n2. Diversification: Commercial real estate offers diversification benefits by providing exposure to different sectors and markets. Investing in a mix of property types, such as office buildings, retail centers, and industrial warehouses, can help spread risk across varied asset classes and economic sectors.\n\n3. Professional Management: Commercial properties are often professionally managed by property management companies or real estate investment firms. These professionals handle day-to-day operations, tenant relations, maintenance, and lease negotiations, freeing investors from the responsibilities of landlordship.\n\n4. Hedge Against Inflation: Commercial real estate investments can act as a hedge against inflation due to their potential for rental income growth and property appreciation over time. As inflation erodes the value of currency, tangible assets like real estate can retain or increase in value, providing a reliable store of wealth.\n\n5. Tax Benefits: Commercial real estate offers several tax advantages for investors, including depreciation deductions, mortgage interest deductions, and the opportunity to defer capital gains taxes through like-kind exchanges (1031 exchanges). Additionally, certain investment structures such as real estate investment trusts (REITs) may offer tax-efficient investment opportunities.\n\n6. Value-Add Opportunities: Commercial properties often present value-add opportunities for investors to increase property value and rental income through renovations, repositioning, or lease negotiations. By actively managing and improving properties, investors can enhance returns and maximize the potential of their investments.\n\n7. Potential for Appreciation: In addition to generating rental income, commercial properties have the potential for capital appreciation over time. Factors such as location, market demand, and economic growth can contribute to property appreciation, allowing investors to build wealth through property appreciation.\n\nWhile investing in commercial real estate offers numerous benefits, it's essential to conduct thorough due diligence and seek professional advice to mitigate risks and maximize returns. Whether you're a seasoned investor or new to commercial real estate, understanding the advantages and challenges of commercial property investment can help you make informed investment decisions and build a successful real estate portfolio.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 17,
+      "userId": 3,
+      "categoryId": 1,
+      "isFeaturedArticle": false,
+      "image": "https://www.incomerealty.net/images/blog/Income%20Realty_11.jpg",
+      "title": "Understanding Mortgage Options for Investment Properties",
+      "articleContent": "Financing an investment property differs from financing a primary residence, and understanding your mortgage options is essential to making informed investment decisions. Whether you're purchasing a rental property, a vacation home, or a fix-and-flip project, selecting the right mortgage can impact your cash flow, profitability, and overall investment strategy. Here's an overview of mortgage options for investment properties:\n\n1. Conventional Mortgages: Conventional mortgages are traditional home loans offered by banks, credit unions, and mortgage lenders. These loans typically require a down payment of 20% or more and have fixed or adjustable interest rates. Conventional mortgages are suitable for investors with strong credit and stable income who can meet the lender's qualification criteria.\n\n2. FHA Loans: FHA loans are government-backed mortgages insured by the Federal Housing Administration (FHA). These loans offer flexible qualification requirements, including lower down payment options and lenient credit score criteria. FHA loans are popular among first-time investors and those with limited funds for a down payment.\n\n3. VA Loans: VA loans are mortgage loans guaranteed by the Department of Veterans Affairs (VA) and available to eligible military service members, veterans, and their spouses. VA loans offer 100% financing with no down payment requirement and competitive interest rates. Eligible borrowers can purchase investment properties with VA loans, provided they meet the VA's occupancy requirements.\n\n4. Portfolio Loans: Portfolio loans are offered by banks and credit unions and are not sold to government-sponsored entities like Fannie Mae or Freddie Mac. These loans are typically tailored to the lender's specific criteria and may offer more flexibility in terms of credit score, down payment, and property type. Portfolio loans are suitable for investors with unique financing needs or non-traditional properties.\n\n5. Hard Money Loans: Hard money loans are short-term, asset-based loans secured by the property's value rather than the borrower's creditworthiness. These loans are ideal for investors who need quick financing for fix-and-flip projects or distressed properties. Hard money loans typically have higher interest rates and fees than conventional mortgages but offer faster approval and funding.\n\n6. Commercial Mortgages: Commercial mortgages are used to finance income-producing properties such as multifamily buildings, office complexes, or retail centers. These loans are underwritten based on the property's income potential and may require a larger down payment and higher interest rates than residential mortgages. Commercial mortgages are suitable for experienced investors and larger investment properties.\n\nBefore selecting a mortgage for your investment property, carefully evaluate your financial situation, investment goals, and risk tolerance. Consider working with a mortgage broker or financial advisor to explore your options and choose the loan that best aligns with your investment strategy.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 18,
+      "userId": 3,
+      "categoryId": 2,
+      "isFeaturedArticle": false,
+      "image": "https://jennakateathome.com/wp-content/uploads/2020/08/home-staging-tips.jpg",
+      "title": "Staging Tips to Sell Your Home Faster",
+      "articleContent": "Staging is a crucial aspect of preparing your home for sale. Effective staging can help showcase your home's best features, create a welcoming atmosphere, and make a positive impression on potential buyers. Whether you're working with a professional stager or tackling the job yourself, here are some staging tips to help sell your home faster:\n\n1. Declutter and Depersonalize: Start by decluttering your home and removing personal items such as family photos, knick-knacks, and excessive furniture. Clearing out clutter helps buyers envision themselves living in the space and allows them to focus on the home's features.\n\n2. Clean and Repair: Clean your home from top to bottom, paying attention to commonly overlooked areas such as baseboards, light fixtures, and appliances. Make any necessary repairs, such as fixing leaky faucets, patching holes in walls, or replacing worn-out carpeting.\n\n3. Enhance Curb Appeal: Make a positive first impression by enhancing your home's curb appeal. Mow the lawn, trim hedges, plant flowers, and add potted plants or hanging baskets near the entryway. Repair any exterior damage and consider repainting the front door for a fresh look.\n\n4. Neutralize Colors and Decor: Choose neutral paint colors and decor to appeal to a broad range of buyers. Neutral tones create a blank canvas that allows buyers to envision their own style and preferences in the space. Remove bold or outdated decor that may distract or turn off potential buyers.\n\n5. Maximize Natural Light: Open curtains and blinds to let in natural light and make your home feel bright and airy. Clean windows and light fixtures to maximize illumination throughout the home. If necessary, add additional lighting to dark or dimly lit rooms.\n\n6. Rearrange Furniture: Arrange furniture to create a sense of flow and functionality in each room. Consider the traffic flow, focal points, and conversation areas when arranging seating and other furniture pieces. Remove excess furniture to create the illusion of more space.\n\n7. Create Inviting Spaces: Stage each room to highlight its purpose and functionality. Set the dining table with attractive place settings, add fluffy towels and decorative soaps to the bathrooms, and stage bedrooms with fresh linens and cozy throws. Create inviting outdoor spaces with patio furniture, cushions, and outdoor rugs.\n\n8. Add Finishing Touches: Finally, add finishing touches to complete the staging process. Add decorative accents such as throw pillows, artwork, and greenery to enhance visual appeal and create a cohesive look throughout the home. Pay attention to details and aim to create a warm, welcoming atmosphere that invites buyers to envision themselves living in the space.\n\nBy following these staging tips and presenting your home in its best possible light, you can attract more buyers, generate greater interest, and ultimately sell your home faster and for a higher price. Remember, staging is an investment in the sale of your home, and the effort you put in can pay off in a faster, more successful sale.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 19,
+      "userId": 3,
+      "categoryId": 3,
+      "isFeaturedArticle": false,
+      "image": "https://www.investopedia.com/thmb/qNxT3vGAwbTuDINC2rM2EkwPZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Real-Estate-Investment-Trust-189c6cf51a03412b880b12f10ff1ee05.jpg",
+      "title": "The Role of Real Estate Investment Trusts (REITs) in Your Portfolio",
+      "articleContent": "Real Estate Investment Trusts (REITs) are investment vehicles that allow individuals to invest in income-producing real estate properties without directly owning or managing them. REITs pool investor capital to acquire, develop, operate, and manage a portfolio of properties, which may include commercial office buildings, shopping centers, apartment complexes, hotels, or industrial facilities. Here's an overview of the role of REITs in your investment portfolio and their potential benefits:\n\n1. Diversification: REITs offer diversification benefits by providing exposure to a diversified portfolio of real estate properties and sectors. By investing in REITs, investors can spread risk across different types of properties, geographic locations, and economic sectors, reducing exposure to individual property or market-specific risks.\n\n2. Passive Income: REITs generate income through rental revenue, property appreciation, and capital gains. REITs are required by law to distribute at least 90% of their taxable income to shareholders in the form of dividends, making them an attractive option for investors seeking passive income streams.\n\n3. Liquidity: Unlike direct property ownership, which can be illiquid and require significant capital investment, REITs offer liquidity and accessibility to real estate investments. REIT shares are bought and sold on public stock exchanges, providing investors with the flexibility to buy or sell shares at market prices.\n\n4. Professional Management: REITs are managed by experienced real estate professionals who handle property acquisition, development, leasing, and asset management activities. By investing in REITs, investors benefit from professional management and expertise without the responsibilities of direct property ownership.\n\n5. Transparency and Regulation: REITs are subject to regulatory oversight and disclosure requirements, providing investors with transparency and accountability. REITs are required to publish regular financial reports, disclose material information, and adhere to governance standards, enhancing investor confidence and trust.\n\n6. Potential for Capital Appreciation: In addition to generating income through dividends, REITs have the potential for capital appreciation over time. Factors such as property appreciation, rental income growth, and market demand can contribute to the overall performance and value of REIT investments.\n\n7. Tax Efficiency: REITs may offer tax advantages for investors, including the ability to defer capital gains taxes through like-kind exchanges (1031 exchanges) and the potential for favorable tax treatment of dividends. Additionally, certain types of REITs, such as healthcare REITs or infrastructure REITs, may offer specific tax benefits or deductions.\n\nBy incorporating REITs into your investment portfolio, you can gain exposure to real estate markets, generate passive income, and diversify your investment holdings. Whether you're a novice investor or experienced portfolio manager, REITs offer a convenient and accessible way to access the benefits of real estate investing while minimizing risk and maximizing returns.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 20,
+      "userId": 3,
+      "categoryId": 4,
+      "isFeaturedArticle": false,
+      "image": "https://media.licdn.com/dms/image/D5612AQEJbcIHWFGsxw/article-cover_image-shrink_720_1280/0/1712608684409?e=2147483647&v=beta&t=Ut9EI0WTueRgb2x4MMBObez7fF3OUiEgZ_kUGSbDjcI",
+      "title": "Navigating the Lease Negotiation Process for Commercial Properties",
+      "articleContent": "Lease negotiation is a critical aspect of commercial real estate investing, as the terms of the lease can significantly impact the profitability and success of an investment property. Whether you're a landlord or tenant, understanding the lease negotiation process and key considerations is essential to achieving favorable outcomes. Here are some tips for navigating the lease negotiation process for commercial properties:\n\n1. Understand Your Needs and Objectives: Before entering into lease negotiations, clarify your needs, objectives, and priorities. Consider factors such as lease term, rental rate, space requirements, tenant improvements, and operating expenses. Understanding your goals and preferences will help guide the negotiation process and ensure that the lease meets your requirements.\n\n2. Research Market Conditions: Research current market conditions, rental rates, and comparable properties in the area to gain insight into market trends and benchmarks. Understanding market dynamics and property values will help you negotiate from a position of knowledge and strength.\n\n3. Seek Professional Advice: Consider working with experienced real estate professionals, such as commercial real estate brokers, attorneys, or lease consultants, to assist with lease negotiations. These professionals can provide valuable market insights, negotiate on your behalf, and help draft and review lease agreements to protect your interests.\n\n4. Negotiate Key Terms: Focus on negotiating key lease terms that are most important to you, such as lease duration, rental rate, renewal options, and tenant improvement allowances. Be prepared to compromise on less critical terms while prioritizing those that have the greatest impact on your bottom line.\n\n5. Review Lease Documents Carefully: Thoroughly review lease documents, including the lease agreement, addendums, and any associated legal documents, before signing. Pay attention to provisions related to rent escalations, maintenance responsibilities, insurance requirements, and lease termination rights. Seek clarification on any ambiguous or confusing language and ensure that all terms are accurately reflected in the final agreement.\n\n6. Consider Future Flexibility: Anticipate future changes and developments that may impact your business or investment strategy, and negotiate lease terms that provide flexibility and adaptability. Consider options such as lease renewal rights, expansion or contraction provisions, subleasing rights, and assignment clauses to accommodate future needs.\n\n7. Build and Maintain Positive Relationships: Building and maintaining positive relationships with landlords, tenants, and leasing agents can facilitate smoother lease negotiations and ongoing lease management. Communicate openly and honestly, negotiate in good faith, and strive to reach mutually beneficial agreements that support long-term success.\n\nBy following these tips and strategies, you can navigate the lease negotiation process for commercial properties more effectively and achieve favorable outcomes for all parties involved. Whether you're leasing space for your business or investing in commercial real estate, careful negotiation and attention to detail are essential to securing a lease that meets your needs and objectives.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 21,
+      "userId": 3,
+      "categoryId": 1,
+      "isFeaturedArticle": false,
+      "image": "https://img.money.com/2022/11/Mortgage-Avoid-Home-Buying-Mistakes.jpg?crop=0px%2C152px%2C2880px%2C1620px&quality=60&w=1600",
+      "title": "Common Mistakes to Avoid When Buying a Home",
+      "articleContent": "Buying a home is one of the most significant financial decisions you'll ever make, and it's essential to approach the process thoughtfully and carefully. Unfortunately, many home buyers make common mistakes that can cost them time, money, and stress. To help you navigate the home buying process successfully, here are some common mistakes to avoid:\n\n1. Not Getting Pre-Approved for a Mortgage: Getting pre-approved for a mortgage is a crucial first step in the home buying process. Pre-approval demonstrates to sellers that you're a serious buyer and gives you a clear idea of how much you can afford to spend on a home.\n\n2. Skipping Home Inspections: Skipping or waiving a home inspection can be a costly mistake. A professional home inspection can uncover hidden issues with a property that may not be visible to the naked eye, such as structural defects, electrical problems, or plumbing issues. Investing in a thorough inspection can save you from expensive repairs down the road.\n\n3. Overlooking Hidden Costs: In addition to the purchase price of the home, budget for additional costs such as closing costs, property taxes, homeowners insurance, and maintenance expenses. Failing to account for these expenses can strain your finances and lead to financial stress.\n\n4. Ignoring Your Future Needs: Consider your long-term needs and priorities when selecting a home. Think about factors such as location, school districts, amenities, and potential for resale value. Choosing a home that meets your current and future needs will ensure that you're satisfied with your purchase for years to come.\n\n5. Making Emotional Decisions: Buying a home is an emotional process, but it's essential to approach it with a level head. Avoid making impulsive decisions based on emotions or falling in love with a property that's beyond your budget. Stick to your financial plan and prioritize practical considerations over emotional attachments.\n\n6. Not Working with a Real Estate Agent: A knowledgeable real estate agent can guide you through the home buying process, provide valuable market insights, and negotiate on your behalf. Working with an agent can save you time, money, and stress and help you avoid common pitfalls.\n\n7. Skipping the Final Walk-Through: Before closing on a home, schedule a final walk-through to ensure that the property is in the agreed-upon condition and that any negotiated repairs have been completed satisfactorily. Skipping this step can leave you vulnerable to unexpected surprises or issues at closing.\n\n8. Not Planning for Resale: While it's essential to find a home that meets your current needs, it's also wise to consider its potential resale value. Choose a home in a desirable location with features that appeal to a broad range of buyers to maximize its resale potential.\n\nBy avoiding these common mistakes and working with experienced professionals, you can navigate the home buying process with confidence and make informed decisions that align with your financial goals and lifestyle preferences.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 22,
+      "userId": 3,
+      "categoryId": 2,
+      "isFeaturedArticle": false,
+      "image": "https://www.thebalancemoney.com/thmb/zuje8wRvqacrRTKgi3RGIJKuPIA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/open-houses-how-to-hold-a-successful-open-house-1799063-v3-49db365da9a54a18ae3268b070aebeaa.jpg",
+      "title": "Preparing Your Home for a Successful Open House",
+      "articleContent": "An open house can be a valuable marketing tool when selling your home, allowing potential buyers to view the property firsthand and envision themselves living there. To make the most of your open house event and attract interested buyers, it's essential to prepare your home effectively. Here are some tips for preparing your home for a successful open house:\n\n1. Clean and Declutter: Start by thoroughly cleaning your home and removing clutter. Clean countertops, floors, and surfaces, and declutter rooms to create a sense of space and organization. Consider renting a storage unit to temporarily store excess furniture, personal items, and knick-knacks.\n\n2. Boost Curb Appeal: Make a positive first impression by enhancing your home's curb appeal. Mow the lawn, trim hedges, and plant flowers to create an inviting exterior. Clean windows, power wash siding, and repair any visible exterior damage. Consider adding a fresh coat of paint to the front door or installing new hardware for a polished look.\n\n3. Stage Each Room: Stage each room to highlight its features and functionality. Arrange furniture to create a sense of flow and highlight focal points such as fireplaces or architectural details. Add decorative accents such as throw pillows, rugs, and artwork to enhance visual appeal and create a welcoming atmosphere.\n\n4. Maximize Natural Light: Open curtains and blinds to let in natural light and create a bright, airy atmosphere. Clean windows and light fixtures to maximize illumination throughout the home. If necessary, add additional lighting to dark or dimly lit areas to enhance visibility and ambiance.\n\n5. Create a Welcoming Atmosphere: Set the stage for a successful open house by creating a welcoming atmosphere for potential buyers. Consider playing soft music, lighting scented candles, or baking cookies to create a warm, inviting ambiance. Provide refreshments such as water, coffee, or snacks to make visitors feel comfortable and at home.\n\n6. Highlight Outdoor Spaces: Showcase your home's outdoor living areas by staging them with patio furniture, cushions, and outdoor accessories. Clean and declutter outdoor spaces such as decks, patios, and balconies, and add potted plants or hanging baskets to add color and visual interest.\n\n7. Offer Informational Materials: Provide informational materials such as brochures, flyers, or property fact sheets for visitors to take home. Include details about the home's features, upgrades, and amenities, as well as information about the neighborhood, schools, and local attractions.\n\n8. Be Available to Answer Questions: Be present during the open house to greet visitors, answer questions, and provide additional information about the property. Offer guided tours of the home and highlight key selling points such as recent renovations, energy-efficient upgrades, or desirable neighborhood amenities.\n\nBy following these tips and preparing your home effectively, you can host a successful open house event that attracts interested buyers and generates offers. Remember, first impressions are crucial, so take the time to showcase your home in its best possible light and make a lasting impression on potential buyers.",
+      "dateUploaded": "2024-05-13"
+    },
+    {
+      "id": 23,
+      "userId": 3,
+      "categoryId": 3,
+      "isFeaturedArticle": false,
+      "image": "https://www.crowdstreet.com/hs-fs/hubfs/Imported_Blog_Media/Screen_Shot_2016-07-15_at_10_55_52_AM.png?width=800&name=Screen_Shot_2016-07-15_at_10_55_52_AM.png",
+      "title": "Understanding Real Estate Market Cycles",
+      "articleContent": "The real estate market is subject to cycles of expansion and contraction, driven by various economic, demographic, and market factors. Understanding these market cycles can help investors, homeowners, and industry professionals make informed decisions and navigate market fluctuations effectively. Here's an overview of the four primary stages of the real estate market cycle:\n\n1. Expansion: During the expansion phase, the real estate market experiences robust growth, rising property values, and increasing demand from buyers and investors. Economic indicators such as job growth, low unemployment, and rising consumer confidence contribute to strong market fundamentals and fuel demand for real estate. Developers respond to increased demand by initiating new construction projects, leading to an expansion of the housing supply.\n\n2. Peak: The peak phase represents the culmination of the expansionary period, characterized by peak demand, rising property prices, and heightened investor speculation. Property values reach their highest point, and competition among buyers intensifies as inventory levels tighten. Developers may overbuild in response to strong market conditions, leading to an oversupply of properties and potential market saturation.\n\n3. Contraction: During the contraction phase, the real estate market experiences a slowdown in activity, declining property values, and weakening demand. Economic factors such as rising interest rates, job losses, or economic recession contribute to reduced consumer confidence and dampened demand for real estate. Property sales decrease, inventory levels rise, and sellers may be forced to reduce prices or offer incentives to attract buyers.\n\n4. Trough: The trough phase represents the bottom of the market cycle, characterized by low property values, high inventory levels, and pessimism among buyers and investors. Economic conditions stabilize or begin to improve, leading to increased affordability and renewed buyer interest. Bargain-hunting investors may enter the market to capitalize on distressed properties or undervalued assets, signaling the beginning of a potential recovery.\n\nUnderstanding real estate market cycles is essential for making informed investment decisions, timing property purchases and sales, and managing risk effectively. While market cycles are influenced by a complex interplay of economic, demographic, and market-specific factors, recognizing the general patterns and stages of the market cycle can provide valuable insights and help stakeholders navigate market conditions with confidence.",
+      "dateUploaded": "2024-05-13"
     },
     {
       "userId": 1,
-      "title": "this is a test ",
-      "articleContent": "asdasdasdas",
+      "title": "Key Considerations for Investing in Commercial Real Estate",
+      "categoryId": "4",
+      "articleContent": "Commercial real estate investment offers the potential for attractive returns and portfolio diversification but requires careful consideration and due diligence. Whether you're a seasoned investor or new to commercial real estate, understanding the key considerations and factors that influence investment decisions is essential to success. Here are some key considerations for investing in commercial real estate:\\n\\n1. Market Analysis: Conduct thorough market research and analysis to identify promising investment opportunities and market trends. Evaluate factors such as supply and demand dynamics, population growth, job growth, economic indicators, and market drivers. Identify target markets and submarkets that align with your investment criteria and offer favorable growth prospects.\\n\\n2. Property Type and Location: Consider the type and location of commercial properties that best suit your investment objectives and risk tolerance. Common property types include office buildings, retail centers, industrial warehouses, multifamily housing, and hospitality properties. Evaluate factors such as property condition, location, proximity to amenities, accessibility, and market demand when selecting properties for investment.\\n\\n3. Financial Analysis: Conduct comprehensive financial analysis to assess the investment potential and feasibility of commercial properties. Evaluate factors such as rental income, operating expenses, vacancy rates, capitalization rates, cash flow projections, and potential for appreciation. Consider using financial metrics such as net operating income (NOI), cash-on-cash return, internal rate of return (IRR), and return on investment (ROI) to compare and evaluate investment opportunities.\\n\\n4. Risk Management: Identify and mitigate potential risks associated with commercial real estate investments. Evaluate factors such as tenant creditworthiness, lease terms and expiration dates, market volatility, economic conditions, regulatory changes, and environmental risks. Implement risk management strategies such as diversification, due diligence, property insurance, lease structuring, and contingency planning to minimize exposure to risk.\\n\\n5. Financing and Capital Structure: Evaluate financing options and capital structure to optimize investment returns and manage cash flow. Consider factors such as loan terms, interest rates, loan-to-value (LTV) ratios, debt service coverage ratios (DSCR), and equity requirements. Explore financing options such as conventional mortgages, commercial loans, mezzanine financing, and equity partnerships to fund acquisitions and development projects.\\n\\n6. Exit Strategy: Develop a clear exit strategy and timeline for your commercial real estate investments. Consider factors such as investment holding period, market conditions, capital appreciation potential, and liquidity requirements when planning your exit strategy. Evaluate options such as selling properties, refinancing debt, or implementing 1031 exchanges to defer capital gains taxes and reinvest proceeds into new investments.\\n\\nBy considering these key factors and conducting thorough due diligence, you can identify attractive investment opportunities, mitigate risks, and build a successful commercial real estate portfolio. Whether you're seeking stable income streams, long-term capital appreciation, or portfolio diversification, commercial real estate offers a range of investment options and strategies to help you achieve your financial goals.",
       "isFeaturedArticle": false,
-      "image": "https://i1.wp.com/hechingerreport.org/wp-content/uploads/2018/04/Jennifer-Heller-Buckley-PHOTO1.jpg?ssl=1",
-      "dateUploaded": "2024-04-26T20:51:31.127Z",
-      "id": 3
+      "image": "https://www.investopedia.com/thmb/aMs6ydDf5UM3ncCbuGwfdd2ax6w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/most-important-factors-investing-real-estate.asp-ADD-FINALjpg-32950329a30d4500b6d7e0fd0ba95189.jpg",
+      "dateUploaded": "2024-05-14T14:38:27.636Z",
+      "id": 24
     }
   ],
   "comments": [
     {
-      "id": 1,
-      "articleId": 1,
+      "articleId": "24",
       "userId": 1,
-      "content": "this is a test",
-      "timeStamp": ""
+      "text": "WOW",
+      "timestamp": "5/14/2024",
+      "id": 2
+    }
+  ],
+  "emailSignUp": [
+    {
+      "id": 1,
+      "email": "asd"
     }
   ]
 }
